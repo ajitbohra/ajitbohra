@@ -1,4 +1,8 @@
-### Hi there 👋
+# Blatherskite 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitbohra" alt="ajitbohra" /> </p>
+
+![Profile Header](header.png)
 
 <!--
 **ajitbohra/ajitbohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
